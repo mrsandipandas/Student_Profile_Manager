@@ -1,0 +1,36 @@
+
+.white { color:white;}
+
+.pagetitle {
+	color: #ffffff;
+	background-color: #666699;
+	text-align: center
+}
+.title {
+	color: #FF0033; background-color: #F8F8F8; font-size: 25px; font-weight: 900;
+	text-align: center; border-width: 2px; border-style: solid
+}
+	
+.panel {
+	font-size: 18px;
+	background-color: #666699;
+	color : #ffffff;
+}
+
+.chattername {
+	font-family:Arial,Tahoma,Verdana;
+	color:#6633CC;
+	font-size:18px
+}
+
+.error {
+	color : #FF3300;
+	
+}
+
+h2 {
+	
+	color: #000066;
+}
+h3 { color:#009966 }
+h4 { color:#330099 }
